@@ -1,3 +1,2 @@
 test file 1
-bla bla
-10
+the one commit
