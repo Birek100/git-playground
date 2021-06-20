@@ -2,4 +2,8 @@ test file
 another changes
 Jacob stood on his tiptoes.
 The car turned the corner.
+<<<<<<< HEAD
 car is blue and green.
+=======
+car is red
+>>>>>>> 98d7e891f5e20f65873f70472abbba0f26244f4e
