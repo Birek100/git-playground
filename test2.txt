@@ -1,4 +1,2 @@
-second test file
-another changes
-Aaron made a picture.
+second test file 2
 
