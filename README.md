@@ -1,2 +1,2 @@
 # git-playground
-First commit
+first commit
