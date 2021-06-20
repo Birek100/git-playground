@@ -1,9 +1,12 @@
 second test file
 another changes
 Aaron made a picture.
+<<<<<<< HEAD
 I'm sorry.
 I'm hard working man
 Wait for a new day
 
 
 
+=======
+>>>>>>> new
