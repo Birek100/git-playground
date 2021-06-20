@@ -1,10 +1,6 @@
 test file
 another changes
 Jacob stood on his tiptoes.
-<<<<<<< HEAD
 The car turned the corner.
 car is new.
-=======
-another job
->>>>>>> job
 
